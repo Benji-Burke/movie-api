@@ -43,7 +43,7 @@
                     <configuration>
                         <url>http://localhost:8080/manager/text</url>
                         <server>LocalTomcat</server>
-                        <path>/Project1</path>
+                        <path>/movie</path>
                         <update>true</update>
                     </configuration>
                 </plugin>
