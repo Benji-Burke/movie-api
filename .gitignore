@@ -1,0 +1,30 @@
+.scala_dependencies
+.worksheet
+
+# .properties files
+*.properties
+
+# package-lock.json
+package-lock.json
+
+# hibernate config xml
+hibernate.cfg.xml
+
+# sonarlint modules
+.sonarlint
+
+# target folder
+target/
+
+# attach_pid files
+.attach_pid*
+
+# RBS DCL script
+rbs-db-user-setup.sql
+
+# IntelliJ-specific files
+*.iml
+.idea/
+
+# All .mp4 files
+*.mp4
