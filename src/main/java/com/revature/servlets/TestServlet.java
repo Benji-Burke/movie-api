@@ -12,7 +12,7 @@ public class TestServlet extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        resp.getWriter().write("Application successfully deployed using AWS CodeBuild, CodePipeline, and Elastic Beanstalk");
+        resp.getWriter().write("Application successfully deployed using AWS CodeBuild, CodePipeline, and Elastic Beanstalk, please work! ");
     }
 
 }
